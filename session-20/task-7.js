@@ -1,0 +1,1 @@
+document.getElementById('f').onsubmit = e => { e.preventDefault(); if(!document.getElementById('r').value.trim()) document.getElementById('err').innerText = 'Error: Review empty'; else document.getElementById('err').innerText = 'Submitted'; };

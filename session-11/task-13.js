@@ -1,0 +1,1 @@
+console.log("Splitting utilities into separate files helps scale an app by keeping code modular and organized. It prevents a single file from becoming too large and unmanageable. For example, in a Zomato clone, having separate files for 'authUtils.js' and 'orderUtils.js' makes it much easier to maintain.");

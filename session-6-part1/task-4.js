@@ -1,0 +1,1 @@
+document.querySelector('#addBtn').addEventListener('click', () => { const li = document.createElement('li'); li.innerText = document.querySelector('#songInput').value; document.querySelector('#playlist').appendChild(li); });

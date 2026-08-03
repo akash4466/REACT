@@ -1,0 +1,1 @@
+function saveRecentSearch(query) { let searches = JSON.parse(localStorage.getItem('recentSearches') || '[]'); searches.push(query); localStorage.setItem('recentSearches', JSON.stringify(searches)); } saveRecentSearch('Biryani');

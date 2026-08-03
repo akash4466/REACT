@@ -1,0 +1,1 @@
+﻿fetch('https://jsonplaceholder.typicode.com/users/2').then(r => r.json()).then(u => { console.log(u.name); return fetch('https://jsonplaceholder.typicode.com/posts?userId=2'); }).then(r => r.json()).then(p => console.log(p.map(x => x.title)));

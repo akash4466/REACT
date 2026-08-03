@@ -1,0 +1,1 @@
+const p = []; const render = () => document.getElementById('l').innerHTML = p.map(x => `<li>${x.n} - ${x.d}</li>`).join(''); document.getElementById('f').onsubmit = e => { e.preventDefault(); p.push({n: document.getElementById('n').value, d: document.getElementById('d').value}); render(); };

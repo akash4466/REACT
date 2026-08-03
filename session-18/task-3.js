@@ -1,0 +1,1 @@
+const songs = [{title: 'S1', artist: 'A1', duration: '3:00'}, {title: 'S2', artist: 'A2', duration: '4:00'}, {title: 'S3', artist: 'A3', duration: '2:30'}, {title: 'S4', artist: 'A4', duration: '3:20'}, {title: 'S5', artist: 'A5', duration: '4:10'}]; console.table(songs);

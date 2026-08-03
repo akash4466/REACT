@@ -1,0 +1,1 @@
+﻿function addNewPlaylist() { fetch('https://jsonplaceholder.typicode.com/posts', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({name: 'P', description: 'D'}) }).then(r => r.json()).then(console.log); }
