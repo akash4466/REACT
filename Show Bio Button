@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Show Bio</title>
+</head>
+<body>
+
+    <button onclick="showBio()">Show Bio</button>
+
+    <script>
+        function showBio() {
+            alert("Name: Akash Pol\nFavorite App: Instagram");
+        }
+    </script>
+
+</body>
+</html>
