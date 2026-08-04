@@ -1,1 +1,5 @@
-document.getElementById('f').onsubmit = e => { e.preventDefault(); if(!document.getElementById('n').value || !document.getElementById('d').value) document.getElementById('err').innerText = 'Error: Fields empty'; };
+document.getElementById('f').onsubmit = e => {
+  e.preventDefault();
+if(!document.getElementById('n').value || !document.getElementById('d').value) document.getElementById('err').innerText = 'Error: Fields empty';
+};
+

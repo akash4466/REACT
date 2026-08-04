@@ -1,1 +1,6 @@
-const zomato = ['Pizza']; const swiggy = ['Burger']; const allDishes = [...zomato, ...swiggy]; console.log(allDishes);
+const zomato = ['Pizza'];
+const swiggy = ['Burger'];
+const allDishes = [...zomato,
+  ...swiggy];
+console.log(allDishes);
+

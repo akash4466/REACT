@@ -1,1 +1,3 @@
-document.getElementById('greeting').innerHTML = 'Hello, welcome to your playlist!';
+document.getElementById('greeting').innerHTML = 'Hello,
+  welcome to your playlist!';
+

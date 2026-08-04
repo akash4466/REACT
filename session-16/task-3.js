@@ -1,1 +1,2 @@
-﻿const r = [].filter(p => p.isPublic);
+const r = [].filter(p => p.isPublic);
+

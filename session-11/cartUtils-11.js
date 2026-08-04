@@ -1,1 +1,4 @@
-export const addToCart = () => {}; export const removeFromCart = () => {}; export const calculateTotal = () => {};
+export const addToCart = () => {};
+export const removeFromCart = () => {};
+export const calculateTotal = () => {};
+

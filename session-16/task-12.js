@@ -1,1 +1,2 @@
-﻿const r = [].find(r => r.cuisine === 'Chinese');
+const r = [].find(r => r.cuisine === 'Chinese');
+

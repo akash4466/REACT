@@ -1,1 +1,2 @@
-﻿const r = [].map(p => p.likes);
+const r = [].map(p => p.likes);
+

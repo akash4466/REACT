@@ -1,1 +1,4 @@
-document.getElementById('clearBtn').onclick = () => { localStorage.removeItem('wishlist'); };
+document.getElementById('clearBtn').onclick = () => {
+  localStorage.removeItem('wishlist');
+};
+

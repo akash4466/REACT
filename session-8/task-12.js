@@ -1,1 +1,16 @@
-const wishlist = [ { name: 'A', price: 100 }, { name: 'B', price: 200 }, { name: 'C', price: 300 } ]; localStorage.setItem('wishlist', JSON.stringify(wishlist)); console.log(JSON.parse(localStorage.getItem('wishlist')));
+const wishlist = [ {
+  name: 'A',
+  price: 100
+},
+  {
+  name: 'B',
+  price: 200
+},
+  {
+  name: 'C',
+  price: 300
+} ];
+localStorage.setItem('wishlist',
+  JSON.stringify(wishlist));
+console.log(JSON.parse(localStorage.getItem('wishlist')));
+

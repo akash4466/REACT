@@ -1,1 +1,9 @@
-class Playlist { constructor(name, songs) { this.name = name; this.songs = songs; } } console.log(new Playlist('My Fav', ['Song X']));
+class Playlist {
+  constructor(name,
+  songs) {
+  this.name = name;
+this.songs = songs;
+}
+} console.log(new Playlist('My Fav',
+  ['Song X']));
+

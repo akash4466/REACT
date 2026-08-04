@@ -1,1 +1,13 @@
-class Playlist { constructor(name, songs) { this.name = name; this.songs = songs; } displayPlaylist() { console.log(this.name, this.songs.join(', ')); } } new Playlist('Pop', ['A']).displayPlaylist();
+class Playlist {
+  constructor(name,
+  songs) {
+  this.name = name;
+this.songs = songs;
+} displayPlaylist() {
+  console.log(this.name,
+  this.songs.join(',
+  '));
+}
+} new Playlist('Pop',
+  ['A']).displayPlaylist();
+

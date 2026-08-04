@@ -1,1 +1,7 @@
-document.querySelector('#addBtn').addEventListener('click', () => { const li = document.createElement('li'); li.innerText = document.querySelector('#friendInput').value; document.querySelector('#friend-list').appendChild(li); });
+document.querySelector('#addBtn').addEventListener('click',
+  () => {
+  const li = document.createElement('li');
+li.innerText = document.querySelector('#friendInput').value;
+document.querySelector('#friend-list').appendChild(li);
+});
+

@@ -1,1 +1,3 @@
-export const addWishlist = () => {}; export const removeWishlist = () => {};
+export const addWishlist = () => {};
+export const removeWishlist = () => {};
+

@@ -1,1 +1,10 @@
-function checkPlaylistURL(url) { if (!url.startsWith('https://open.spotify.com/')) throw new Error('Invalid Spotify URL'); } try { checkPlaylistURL('http://bad.com'); } catch(e) { console.log(e.message); } finally { console.log('Validation complete'); }
+function checkPlaylistURL(url) {
+  if (!url.startsWith('https://open.spotify.com/')) throw new Error('Invalid Spotify URL');
+} try {
+  checkPlaylistURL('http://bad.com');
+} catch(e) {
+  console.log(e.message);
+} finally {
+  console.log('Validation complete');
+}
+

@@ -1,1 +1,6 @@
-const playlists = [{name: 'X', isPublic: true}, {name: 'Y', isPublic: false}]; const publicPlaylists = playlists.filter(p => p.isPublic);
+const playlists = [{name: 'X',
+  isPublic: true},
+  {name: 'Y',
+  isPublic: false}];
+const publicPlaylists = playlists.filter(p => p.isPublic);
+

@@ -1,1 +1,15 @@
-class FlipkartProduct { constructor(title, price, rating) { Object.assign(this, {title, price, rating}); } showProductInfo() { console.log(`${this.title} - ₹${this.price} - ${this.rating}⭐`); } } new FlipkartProduct('Phone', 1000, 4).showProductInfo();
+class FlipkartProduct {
+  constructor(title,
+  price,
+  rating) {
+  Object.assign(this,
+  {title,
+  price,
+  rating});
+} showProductInfo() {
+  console.log(`${this.title} - ₹${this.price} - ${this.rating}⭐`);
+}
+} new FlipkartProduct('Phone',
+  1000,
+  4).showProductInfo();
+

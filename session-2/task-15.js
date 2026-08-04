@@ -1,4 +1,7 @@
-function displayProfile(userName, followers) {
+function displayProfile(userName,
+  followers) {
   console.log(`${userName} has ${followers} followers`);
 }
-displayProfile('Antigravity', 1500);
+displayProfile('Antigravity',
+  1500);
+

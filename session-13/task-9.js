@@ -1,1 +1,15 @@
-class FlipkartProduct { constructor(title, price, rating) { Object.assign(this, {title, price, rating}); } displayDetails() { console.log(`${this.title} - ₹${this.price} - ${this.rating}⭐`); } } new FlipkartProduct('Redmi Note 12 Pro', 18999, 4.5).displayDetails();
+class FlipkartProduct {
+  constructor(title,
+  price,
+  rating) {
+  Object.assign(this,
+  {title,
+  price,
+  rating});
+} displayDetails() {
+  console.log(`${this.title} - ₹${this.price} - ${this.rating}⭐`);
+}
+} new FlipkartProduct('Redmi Note 12 Pro',
+  18999,
+  4.5).displayDetails();
+

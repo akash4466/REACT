@@ -1,1 +1,8 @@
-﻿function editPlaylistLink(index, newLinkObj) { const links = JSON.parse(localStorage.getItem('myPlaylists') || '[]'); links[index] = newLinkObj; localStorage.setItem('myPlaylists', JSON.stringify(links)); }
+function editPlaylistLink(index,
+  newLinkObj) {
+  const links = JSON.parse(localStorage.getItem('myPlaylists') || '[]');
+links[index] = newLinkObj;
+localStorage.setItem('myPlaylists',
+  JSON.stringify(links));
+}
+

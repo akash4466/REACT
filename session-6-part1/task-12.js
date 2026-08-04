@@ -1,1 +1,8 @@
-const songs = ['Song A', 'Song B', 'Song C']; document.getElementById('changeBtn').addEventListener('click', () => { document.getElementById('song-title').innerHTML = songs[Math.floor(Math.random() * songs.length)]; });
+const songs = ['Song A',
+  'Song B',
+  'Song C'];
+document.getElementById('changeBtn').addEventListener('click',
+  () => {
+  document.getElementById('song-title').innerHTML = songs[Math.floor(Math.random() * songs.length)];
+});
+

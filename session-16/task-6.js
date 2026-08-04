@@ -1,1 +1,3 @@
-﻿const r = [].map(p => 'Product: '+p.name+', Price: '+p.price);
+const r = [].map(p => 'Product: '+p.name+',
+  Price: '+p.price);
+

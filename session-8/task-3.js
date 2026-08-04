@@ -1,1 +1,5 @@
-const apps = ['Zomato', 'Swiggy', "Domino's"]; console.log(JSON.stringify(apps));
+const apps = ['Zomato',
+  'Swiggy',
+  "Domino's"];
+console.log(JSON.stringify(apps));
+

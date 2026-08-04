@@ -1,1 +1,3 @@
-import formatFollowers from './instaHelpers-7.js'; console.log(formatFollowers(1200));
+import formatFollowers from './instaHelpers-7.js';
+console.log(formatFollowers(1200));
+

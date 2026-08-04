@@ -1,1 +1,14 @@
-const btn = document.getElementById('modeBtn'); btn.addEventListener('click', () => { if (btn.innerText === 'Dark Mode') { document.body.style.backgroundColor = 'black'; document.body.style.color = 'white'; btn.innerText = 'Light Mode'; } else { document.body.style.backgroundColor = 'white'; document.body.style.color = 'black'; btn.innerText = 'Dark Mode'; } });
+const btn = document.getElementById('modeBtn');
+btn.addEventListener('click',
+  () => {
+  if (btn.innerText === 'Dark Mode') {
+  document.body.style.backgroundColor = 'black';
+document.body.style.color = 'white';
+btn.innerText = 'Light Mode';
+} else {
+  document.body.style.backgroundColor = 'white';
+document.body.style.color = 'black';
+btn.innerText = 'Dark Mode';
+}
+});
+

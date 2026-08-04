@@ -1,1 +1,4 @@
-﻿var app = 'Zomato'; app = 'Swiggy'; console.log(app);
+var app = 'Zomato';
+app = 'Swiggy';
+console.log(app);
+

@@ -1,1 +1,13 @@
-﻿let favFood = 'pizza', favFoodCopy = favFood; favFood = 'burger'; console.log(favFood, favFoodCopy); let zomatoUser = { city: 'Pune' }, user2 = zomatoUser; zomatoUser.city = 'Mumbai'; console.log(zomatoUser, user2);
+let favFood = 'pizza',
+  favFoodCopy = favFood;
+favFood = 'burger';
+console.log(favFood,
+  favFoodCopy);
+let zomatoUser = {
+  city: 'Pune'
+},
+  user2 = zomatoUser;
+zomatoUser.city = 'Mumbai';
+console.log(zomatoUser,
+  user2);
+
