@@ -1,0 +1,3 @@
+# React's Virtual DOM: Performance Advantage
+
+React's **Virtual DOM** is a lightweight, in-memory representation of the actual browser DOM. When a component's state or props change, React constructs a new Virtual DOM tree and compares it with the previous one using an efficient reconciliation ("diffing") algorithm. Instead of re-rendering the entire page, React calculates the exact minimal set of changes needed and batches them into a single update to the real DOM. This dramatically reduces costly browser recalculations, reflows, and repaints, resulting in much faster and smoother UI updates compared to traditional DOM manipulation.

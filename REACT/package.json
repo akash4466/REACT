@@ -1,0 +1,22 @@
+{
+  "name": "react-sessions-master",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "session-1/InstaCloneStarter",
+    "session-2",
+    "session-3",
+    "session-4",
+    "session-5",
+    "session-6"
+  ],
+  "scripts": {
+    "dev:session-1": "npm run dev --workspace=session-1/InstaCloneStarter",
+    "dev:session-2": "npm run dev --workspace=session-2",
+    "dev:session-3": "npm run dev --workspace=session-3",
+    "dev:session-4": "npm run dev --workspace=session-4",
+    "dev:session-5": "npm run dev --workspace=session-5",
+    "dev:session-6": "npm run dev --workspace=session-6",
+    "build:all": "npm run build --workspaces"
+  }
+}
