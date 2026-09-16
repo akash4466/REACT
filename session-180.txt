@@ -1,0 +1,1236 @@
+
+================================================================================
+PAGE 210
+================================================================================
+
+M is the number of primes appearing in this sequence, then what is the value of M?
+(A) 0
+(B) 16
+(C) 17
+(D) 57
+(E) 58
+
+(A) 399
+(B) 401
+(C) 1,996
+(D) 2,000
+(E) 2,001
+
+5. If t is divisible by 12, what is the least possible integer value of a for which (t^2) / (2^a) might not be an integer?
+(A) 2
+(B) 3
+(C) 5
+(D) 6
+(E) 40
+
+6. If 5^(k + 1) = 2,000, what is 5^k + 1?
+
+7. Which of the following is equal to (\sqrt[3]{x})(\sqrt[3]{x})?
+(A) \sqrt[9]{x}
+(B) \sqrt[6]{x}
+(C) \sqrt[3]{x^2}
+(D) \sqrt[9]{x^6}
+(E) \sqrt[6]{x^5}
+
+8. The positive integral divisors k1, k2, k3, ... of a positive integer n are given in ascending order. If n = k5 + k6 + k7, and n when divided by 11 gives 0 as the remainder, then what is the value of n?
+
+================================================================================
+PAGE 211
+================================================================================
+
+(A) 6
+(B) 36
+(C) 42
+(D) 66
+(E) 132
+
+(A) 10
+(B) 12
+(C) 13
+(D) 15
+(E) 17
+
+9. If n is the smallest of three consecutive positive integers, which of the following must be true?
+(A) n is divisible by 3
+(B) n is even
+(C) n is odd
+(D) (n)(n + 2) is even
+(E) n(n + 1)(n + 2) is divisible by 3
+
+10. If 17 / (2^10 * 5^13) is expressed as a terminating decimal, how many zeroes are located to the right of the decimal point before the first non-zero digit?
+
+11. If 25^5 4^6 = 10^x + a, and x is an integer, what could be the minimum positive value of a?
+(A) 0
+(B) 30,000
+(C) 30,000,000
+(D) 10,000,000,000
+(E) 30,000,000,000
+
+12. What is the unit digit of 7^86?
+(A) 0
+(B) 1
+
+================================================================================
+PAGE 212
+================================================================================
+
+(C) 3
+(D) 7
+(E) 9
+
+(C) 7
+(D) 8
+(E) 9
+
+13. What is the difference between the sum of all even positive integers between 1 and 100 (inclusive) and the sum of all odd positive integers between 100 and 150?
+(A) -575
+(B) -475
+(C) 225
+(D) 475
+(E) 575
+
+14. Which of the following is the units digit of (98^43 * 122^22) + 729^59 + 2^543? (Real NMAT Question)
+(A) 5
+(B) 6
+
+15. How many trailing zeros would be there in the expansion of 4^14 * 3^4214 * 5^20 * 71^21?
+(A) 10
+(B) 20
+(C) 30
+(D) 40
+(E) 50
+
+16. If 'a' and 'b' are prime numbers, then what is the H.C.F. of the numbers (a^2 + b^2), (a + b + 1) and (a^2 + b^2 - 1)?
+(A) 1
+(B) 2
+(C) 3
+
+================================================================================
+PAGE 214
+================================================================================
+
+(D) 4
+(E) Cannot be determined
+
+(A) 12
+(B) 21
+(C) 24
+(D) 42
+(E) Both (C) and (D)
+
+17. A three digit number is such that its hundredth digit is equal to the product of the other two digits which are prime numbers. Also, the difference between the number and its reverse is 297. Then, what is the ten's digit of the number?
+(A) 2
+(B) 3
+(C) 5
+(D) 6
+(E) 7
+
+18. When a two digit number is divided by the sum of its digits, the quotient is 4. If the digits are reversed, the new number is 6 less than twice the original number. The number is
+
+19. A five-digit number is formed using the digits 1, 3, 5, 7 and 9 without repetition. What is the sum of all such possible numbers?
+(A) 6666600
+(B) 6666660
+(C) 6666666
+(D) 6666000
+(E) None of these
+
+20. A positive integer 'A' is a multiple of 180 and it has 40 factors. If 'A' is less than 3,000, then the value of A / 40 is
+
+================================================================================
+PAGE 215
+================================================================================
+
+(A) 54
+(B) 60
+(C) 240
+(D) 270
+(E) Cannot be determined
+
+(B) 2
+(C) 5
+(D) 8
+(E) 14
+
+21. If the number 5237ab is completely divisible by 3, find the possible values of a + b.
+(A) 2
+(B) 5
+(C) 8
+(D) 15
+(E) 16
+
+22. A number A gives a remainder of 7 when divided by 9. Find the remainder when 2A is divided by 9.
+(A) 1
+
+23. At a nature trail camp, one-fifth of the total members went rock climbing; twice the square root of the total members went hiking up a mountain trail. The remaining 10 were exploring in caves. How many members went hiking? (Real NMAT Question)
+(A) 5
+(B) 10
+(C) 15
+(D) 20
+(E) 25
+
+24. What is the highest power of 2 in the expression (2^10 - 1)!? (Real NMAT Question)
+
+================================================================================
+PAGE 208
+================================================================================
+
+3.1 Practice Questions
+
+Solve the problems and indicate the best of the answer choices given.
+
+Numbers: All numbers used are real numbers.
+
+Figures: A figure accompanying a problem-solving question is intended to provide useful information for solving the problem. Figures are drawn as accurately as possible. Exceptions will be clearly noted. Lines shown as straight are straight, and lines that appear jagged are also straight. The positions of points, angles, regions, etc., exist in the order shown, and angle measures are greater than zero. All figures lie in a plane unless otherwise indicated.
+
+1 Number Properties
+
+1. A certain school has a total of 585 students and each student plays exactly one of the three games—baseball, football or tennis. Of these students, 135 play baseball, 180 play football, and 270 play tennis.
+
+================================================================================
+PAGE 209
+================================================================================
+
+The sports teacher of the school wants to distribute these students in exactly X groups such that each group contains the same number of students and each student in the group plays the same game. Which of the following is the least value of X?
+(A) 9
+(B) 11
+(C) 13
+(D) 17
+(E) 19
+
+2. Express 7.583 (with bar over 3) as a fraction.
+(A) 91/12
+(B) 44/6
+(C) 99/14
+(D) 22/3
+(E) 148/21
+
+3. Prakash bought a bag of 15 magic pencils for ₹60. One-third of the pencils cost ₹2 each and the rest cost ₹5 each. If there was a hole in the bag and all of the more expensive pencils fell out, the lost pencils represented approximately what percentage of the money Prakash paid for all the pencils?
+(A) 7%
+(B) 13%
+(C) 67%
+(D) 83%
+(E) 88%
+
+4. Given a sequence of 58 terms; such that each term has the form P + n where P stands for the product 2 * 3 * 5 ... * 61 of all prime numbers less than or equal to 61, and 'n' takes, successively, the values 2, 3, 4, ..., 59. If
+
+================================================================================
+PAGE 216
+================================================================================
+
+(A) 2^5 - 1
+(B) 2^7 - 6
+(C) 2^8 - 9
+(D) 2^9 - 10
+(E) 2^10 - 11
+
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4
+
+25. What is the least number which when increased by 37 is divisible by 210, 400 and 105? (Real NMAT Question)
+(A) 8,363
+(B) 8,400
+(C) 8,437
+(D) 8,473
+(E) 8,477
+
+26. How many odd digits are present in the solution of the below expression?
+7777 + 7777 x 7777 x (6 ÷ 77) x (11 ÷ 42) (Real NMAT Question)
+
+27. If I insure my life for $15,000, I must pay a premium of $28 per $1,000 every year. How much do I have to pay annually? (Real NMAT Question)
+(A) $350
+(B) $380
+(C) $420
+(D) $450
+(E) $480
+
+28. If August 15, 1947 was a Friday, then, what was the day on January 26, 1950?
+
+================================================================================
+PAGE 217
+================================================================================
+
+(A) Thursday
+(B) Friday
+(C) Saturday
+(D) Sunday
+(E) Monday
+
+(A) Saturday
+(B) Monday
+(C) Wednesday
+(D) Friday
+(E) Thursday
+
+29. If x is the sum of all the integers between 3,000 and 4,000 that are divisible by 18, 30, 36, and 40, then what is the value of x?
+(A) 10,440
+(B) 10,800
+(C) 12,240
+(D) 12,800
+(E) 13,440
+
+30. If in a certain year, the month of January had exactly 4 Wednesdays and 4 Sundays, then January 1 of that year was a
+
+31. Which of the following numbers is divisible by 9?
+(A) 1,203
+(B) 2,256
+(C) 42,651
+(D) 71,623
+(E) 92,423
+
+32. How many positive integers n are there between 10 and 99, such that (n - 1)(n - 2) ... 3 * 2 * 1 is not divisible by n?
+(A) 15
+
+================================================================================
+PAGE 219
+================================================================================
+
+(B) 18
+(C) 21
+(D) 88
+(E) 89
+
+(C) 13
+(D) 17
+(E) 19
+
+33. If log_10 2 = 0.3010, what is the value of log_5 256? (Real NMAT Question)
+(A) 3.11
+(B) 3.26
+(C) 3.44
+(D) 3.67
+(E) 3.82
+
+34. Find the value of 'x' if 625^(log_36 6) + 12^(log_7 49) = 11^(log_x 169)
+625^(log_36 6) + 12^(log_7 49) = 11^(log_x 169)
+(A) 10
+(B) 11
+
+35. If log_30 3 = x and log_30 5 = y, then find the value of log_8 30.
+(A) 3(1 - x - y)
+(B) 1 / (3(1 - x - y))
+(C) 3 / (1 - x - y)
+(D) (1 - x - y) / 3
+(E) None of these
+
+36. If a^p = b^q = c^r = d^s, then find the value of log_a (bcd).
+(A) p (1/q + 1/r + 1/s)
+(B) 1
+
+================================================================================
+PAGE 225
+================================================================================
+
+(C) 69 Years
+(D) 70 Years
+(E) 72 Years
+
+14. What is the value of the rate of interest if the difference between the compound interests of the first and the second year is 4 times that of the principal?
+(A) 50%
+(B) 100%
+(C) 150%
+(D) 200%
+(E) 400%
+
+15. Some amount was divided into two equal parts. The first part was invested at 10% per annum at simple interest for 4 years. The second part was invested at 10% per annum at compound interest for 3 years. If the difference in the interests earned from the two investments is ₹1000, find the approximate value of the total initial amount.
+(A) ₹28,485
+(B) ₹28,985
+(C) ₹29,485
+(D) ₹29,985
+(E) ₹30,485
+
+16. The value of a car depreciates at the rate of 10% per annum. If its present value is ₹121,500, then what was the value of the car two years ago?
+(A) ₹100,000
+(B) ₹150,000
+(C) ₹200,000
+(D) ₹250,000
+(E) ₹300,000
+
+================================================================================
+PAGE 227
+================================================================================
+
+17. Working together for 7 hours each day, 12 men can complete a certain job in 24 days, while 4 women can complete the same job in 24 days. Last month, 9 men and 5 women began the job by working together for 7 hours each day and completed the job in x days. What is the value of x? (Note: Assume that all men work at the same rate and all women work at the same rate.)
+(A) 6 days
+(B) 8 days
+(C) 12 days
+(D) 15 days
+(E) 16 days
+
+18. At what interest rate per annum will a sum of money double itself in 8 years?
+(A) 12 1/2%
+(B) 13%
+(C) 15%
+(D) 17%
+(E) 19%
+
+19. Parikshit invests ₹1,546 in BNP bank at a certain rate of compound interest per annum. At the end of 8 years, he finds that his money has doubled. What approximately is the rate of interest BNP bank paid him?
+(A) 9%
+(B) 12%
+(C) 15%
+(D) 16%
+(E) 18%
+
+20. A, B and C are partners in a firm. Their investing capitals form an arithmetic progression. They have agreed to dedicate their time in the reverse order of
+
+================================================================================
+PAGE 228
+================================================================================
+
+their capitals which means if the investing capitals of A, B and C are $P, $Q and $R, respectively, then corresponding time dedicated by them towards the firm is R months, Q months and P months, respectively. It is also decided that half of the profit will be divided in the ratio of capitals and the remaining profit in the ratio of the time dedicated. If the total profit in a given year was $120,000, what was B's share in the profit? (Real NMAT Question)
+(A) $20,000
+(B) $30,000
+(C) $40,000
+(D) $60,000
+(E) $80,000
+
+21. The number of days in which A, B and C can do a piece of work individually is in arithmetic progression. If they can finish the work together in 12/13 days, what is the number of days required by A, B and C individually to complete the work if they work at the same rate? (Real NMAT Question)
+(A) 2, 4, 6
+(B) 1, 3, 5
+(C) 2, 5, 8
+(D) 2, 3, 4
+(E) 1, 5, 9
+
+22. Arvind sells clothes at a roadside market for which he pays ₹150 per day to rent a table plus ₹10 per hour to his salesman. He sells an average of ₹78 worth of clothes per hour. Assuming no other costs, which of the functions below best represents profit per day P in terms of hours h that Arvind works for?
+(A) P(h) = 238 - 10h
+(B) P(h) = 72 - 10h
+(C) P(h) = 68h - 150
+
+================================================================================
+PAGE 229
+================================================================================
+
+(D) P(h) = 78h - 160
+(E) P(h) = -160h + 78
+
+23. A batch of clips costs ₹(p + 15) for a company to produce and each batch sells for ₹p (9 - p). For which of the following values of p does the company make a profit?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7
+
+24. Ramakant spent 29% of his salary and then lost 71% of the remainder. If he was left with $39,121 after losing the money, what is Ramakant's salary? (Real NMAT Question)
+(A) $39,121
+(B) $45,000
+(C) $70,000
+(D) $179,482
+(E) $190,000
+
+25. A shopkeeper claims a loss of 4% on his goods, but uses weight equal to 840 gm instead of 1 kg. The shopkeeper actually makes a
+(A) 11 1/7% gain
+(B) 14 2/7% gain
+(C) 4% loss
+(D) 4% gain
+(E) 2% loss
+
+26. A product priced at ₹1,000 would earn a shopkeeper a profit of 15%. Find the profit percentage earned by him
+
+================================================================================
+PAGE 230
+================================================================================
+
+if he decides to sell the product at a discount of ₹50 during the festivals.
+(A) 3.34%
+(B) 9.15%
+(C) 9.25%
+(D) 9.30%
+(E) 9.50%
+
+27. At a factory, 3 fully automatic printing machines working together required 43 days to print a certain number of pages. When 4 semi automatic printing machines worked together, they also required 43 days to print the same number of pages. If the factory had 7 fully automatic printing machines and 5 semi automatic printing machines and they all worked together, what would be the total number of days they would require to print the same number of pages? (Real NMAT Question)
+(A) 5
+(B) 6
+(C) 9
+(D) 10
+(E) 12
+
+28. If (log_10 x) / (log_10 4) = 5/2, what is the value of log_4 (32/x)? (Real NMAT Question)
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4
+
+29. Satish works on 15% commission on the total cost of the book sets he sells. He sold 10 book sets at $8.50 each, 5 at $7.50 each, and 10 at $7.00 each. How much
+
+================================================================================
+PAGE 231
+================================================================================
+
+more commission would he have made had he sold all the book sets at $8.50 each? (Real NMAT Question)
+(A) $1.00
+(B) $1.50
+(C) $3.00
+(D) $3.50
+(E) $4.00
+
+30. The production of rice increased by 75% from 2009 to 2014. From 2014 to 2019, there was a 100% increase. What is the percentage increase in the production of rice from 2009 to 2019? (Real NMAT Question)
+(A) 250%
+(B) 280%
+(C) 285%
+(D) 290%
+(E) 295%
+
+31. Yalda sold two items using two different online sites. She sold one item for $1,710 at a loss of 5% and the other item for $2,520 at a profit of 20%. What is her total profit or loss percentage? (Real NMAT Question)
+(A) Profit of 4.8%
+(B) Loss of 5.1%
+(C) Loss of 6.4%
+(D) Profit of 8.5%
+(E) Loss of 9.2%
+
+32. The ratio of the cost price to the selling price of an item is 4 : 5. The item is sold at a profit of $500. What is the selling price of the item? (Real NMAT Question)
+(A) $1,000
+(B) $1,500
+(C) $2,000
+(D) $2,500
+
+================================================================================
+PAGE 233
+================================================================================
+
+(E) $4,500
+
+33. A chemist is mixing a solution of ink and water. She currently has 30 litres of mixture solution, of which 10 litres are ink. How many litres of ink should the chemist add to her current mixture to attain a 50 : 50 mixture of ink and water if no additional water is added?
+(A) 2.5
+(B) 5
+(C) 10
+(D) 15
+(E) 20
+
+34. The ratio, by volume, of Liquid A to Liquid B in a certain container is 6 : 5. If the same quantity of Liquid A and Liquid B is added to this container, then which of the following could be the ratio, by volume, of Liquid A and Liquid B in the new solution?
+(A) 15 : 9
+(B) 7 : 5
+(C) 19 : 15
+(D) 13 : 10
+(E) 11 : 10
+
+35. In a college dramatics team, the ratio of boys to girls is 6 : 7. If there are 2 more girls than boys in the team, how many boys are in the team?
+(A) 12
+(B) 18
+(C) 24
+(D) 30
+(E) 36
+
+36. X cornflake is 55% fibre and Y cornflake is 70% fibre. Sharad combines a certain amount of the two cereals in a single bowl, creating a mixed cereal that is 65%
+
+================================================================================
+PAGE 234
+================================================================================
+
+fibre. If the bowl contains 120 grams of cereal, how much of the cereal, in grams, is X?
+(A) 30
+(B) 40
+(C) 60
+(D) 80
+(E) 90
+
+37. A, B and C invested their capitals in a business. If the ratio of their periods of investment is 2 : 3 : 7 and their profits are in the ratio of 4 : 6 : 7, find the ratio in which the investments are made by A, B and C. (Real NMAT Question)
+(A) 1 : 1 : 1
+(B) 1 : 2 : 2
+(C) 2 : 1 : 1
+(D) 2 : 2 : 1
+(E) 2 : 2 : 2
+
+38. In what ratio, solution X which contains 50% milk and solution Y which contains 30% milk be mixed so that the obtained solution contains 45% milk?
+(A) 1 : 3
+(B) 2 : 3
+(C) 3 : 2
+(D) 3 : 5
+(E) 3 : 1
+
+39. The sum of the ages of the six members in a family is 130 years. If the age of the children is in the ratio 1 : 2 : 6 : 7 while the combined age of their parents is 82 years, find the age of the eldest child.
+(A) 7 years
+(B) 14 years
+(C) 21 years
+
+================================================================================
+PAGE 235
+================================================================================
+
+(D) 28 years
+(E) 35 years
+
+40. The average age of three people - A, B and C - living in a house is 24 years. If A leaves the house and D stays in his place, then the average age of the three people in the house becomes 34 years. The age of D is how much more than the age of A? (Real NMAT Question)
+(A) 20
+(B) 25
+(C) 30
+(D) 32
+(E) 36
+
+41. If p : q = r : t, which of the following ratios is equal to (4p + 7q) : (4r + 7t)?
+(A) (4p + 4q) : (7r + 7t)
+(B) (4p - 4q) : (7r - 7t)
+(C) (4p - 7q) : (4r + 7t)
+(D) (4p + 7q) : (4r - 7t)
+(E) (4p - 7q) : (4r - 7t)
+
+42. A bank is offering an annual interest rate of 5% compounded annually on a one-time investment intended for a fixed period of 11 years. If the entire investment is liquidated before the completion of the 11-year period, then the amount returned to the investor is the sum of the original investment amount and the accumulated compound interest, minus 4% of the original investment amount for each of the years, or part of a year, remaining in the 11-year period. Kevin made an original investment amount of $15,000 under these conditions and liquidated the entire investment after 8 years. Which of the following is closest to the total amount returned to Kevin?
+(A) $20,362
+(B) $22,162
+
+================================================================================
+PAGE 236
+================================================================================
+
+(C) $23,962
+(D) $25,762
+(E) $27,562
+
+43. Two persons of average age 40 years leave a group and hence the average age of the remaining group increases from 50 to 52 years. Find the number of persons originally in the group.
+(A) 5
+(B) 7
+(C) 8
+(D) 10
+(E) 12
+
+44. If the average weight of 8th, 9th and 10th class is in the ratio of a : b : c and the number of students in class 8th, 9th and 10th is in the ratio of x : y : z, then the average weight of all the three classes considered together is
+(A) (a + b + c) / (x + y + z)
+(B) a/x + b/y + c/z
+(C) (ax + by + cz) / (x + y + z)
+(D) (ax + by + cz) / (a + b + c)
+(E) Cannot be determined
+
+45. The average age of a husband and wife who were married 5 years ago, was 25 years then. The average age of the family including the husband, the wife and two children who were born during the interval is 16 years now. How old are the children now? [All of them have different ages with integral values.]
+(A) 1 year, 3 years
+(B) 4 years, 1 year
+
+================================================================================
+PAGE 238
+================================================================================
+
+(C) 2 years, 3 years
+(D) 2 years, 2 years
+(E) None of these
+
+46. On the common birthday of his two children, Asher invested a total of 8,000 dollars in two bonds, one for his child who turned 6 and the other for his child who turned 11. The annual rate of simple interest was 20%. Each child will receive the same amount when they turn 18. Which of the following is closest to the amount that Asher invested for his 11-year-old child?
+(A) 4,690 dollars
+(B) 5,490 dollars
+(C) 6,490 dollars
+(D) 6,890 dollars
+(E) 7,490 dollars
+
+47. A ski resort has enough wood to keep 20 rooms heated for 14 days. If the resort decides to save wood by turning off the heat in 5 unoccupied rooms, and each room requires the same amount of wood to heat it, how many extra FULL days will the wood supply last?
+(A) 3
+(B) 4
+(C) 5
+(D) 18
+(E) 19
+
+48. Working alone at their respective constant rates, Ajay can complete a certain job in 4 hours, while Firoz can do the same job in 3 hours. Ajay and Firoz worked together on the job and completed it in 2 hours, but while Ajay worked this entire time, Firoz worked for some of the time and took 3 breaks of equal length. How many minutes long were each of Firoz' breaks?
+
+================================================================================
+PAGE 239
+================================================================================
+
+(A) 5 minutes
+(B) 10 minutes
+(C) 15 minutes
+(D) 20 minutes
+(E) 25 minutes
+
+49. A car company increased the selling price of a car model by 5%. This increased the original profit amount by 14%. Which of the following is closest to the original profit percentage?
+(A) 35%
+(B) 36%
+(C) 56%
+(D) 81%
+(E) 93%
+
+50. When working alone at their individual constant rates, Sam can complete a job in x days and Raju can complete the same job in 30 days. Two months ago, Raju began the job by working alone at his individual constant rate but left after working for 3 days. If Sam completed the rest of the job in 27 days, then what is the value of x? (Real NMAT Question)
+(A) 20
+(B) 27
+(C) 30
+(D) 35
+(E) 45
+
+51. Two jars - A and B - contain the same quantity of fully mixed solution of Liquid P and Liquid Q. The ratio, by volume, of Liquid P and Liquid Q in Jar A and Jar B is 5 : 2 and 4 : 1 respectively. What will be the ratio, by volume, in which these two solutions have to be mixed to obtain a new solution of Liquid P and Liquid Q in the ratio, by volume, of 3 : 1?
+
+================================================================================
+PAGE 240
+================================================================================
+
+(A) 5 : 6
+(B) 1 : 1
+(C) 4 : 3
+(D) 7 : 5
+(E) 3 : 2
+
+52. A group of 20 software engineers can finish a development project in 30 days. They got a project with the deadline of 35 days. After how many days should 5 engineers be released so that the project completes on time? (NOTE: Assume that all engineers work at the same rate and equal number of hours each day.) (Real NMAT Question)
+(A) 5
+(B) 8
+(C) 10
+(D) 12
+(E) 15
+
+53. Giri divided his property between his children Suma and Dev. Suma invested her share at an annual simple interest rate of 10% and Dev invested his share at an annual interest rate of 8% compounded annually. At the end of 2 years, the interest received by Suma is ₹13,360 more than the interest received by Dev. What was Suma's share if the total amount divided was ₹250,000?
+(A) ₹50,000
+(B) ₹63,360
+(C) ₹113,360
+(D) ₹150,000
+(E) ₹163,360
+
+54. If 33 unskilled workers can do a work in 15 days of 12 hours each, how many skilled workers can do 50% more work in 11 days of 9 hours each? (Assume that
+
+================================================================================
+PAGE 241
+================================================================================
+
+it takes 2 skilled workers to do the work of 5 unskilled workers.)
+(A) 36
+(B) 42
+(C) 64
+(D) 90
+(E) 100
+
+55. Ajay finishes a work in certain number of days. He got two assistants who work 3/4 as fast as him. If all three work together, then in what fraction of time would they finish the job as compared to Ajay working alone?
+(A) 5/3
+(B) 3/5
+(C) 2/3
+(D) 2/5
+(E) 3/2
+
+56. A and B can do a piece of work in 22 2/9 days, B and C can do it in 16 2/3 days, A and C can do the work in 15 5/13 days. Arrange the three in decreasing order of productivity.
+(A) C > A > B
+(B) B > C > A
+(C) A > C > B
+(D) C > B > A
+(E) B > A > C
+
+57. Tina, Ishan, Abhishek and Fatima jointly started a business and invested a total of ₹80. If Tina's share increases by ₹3, Ishan's share increases by one-third of his share, Abhishek's share decreases by 20% and Fatima's share decreases by ₹4, all of them would have
+
+================================================================================
+PAGE 242
+================================================================================
+
+equal amounts of money. What is Fatima's original share?
+(A) ₹20.25
+(B) ₹23.50
+(C) ₹23.75
+(D) ₹24.25
+(E) ₹24.75
+
+58. Mukesh, Manish, Lalu and Jaggi bought a Brand A mobile for £60. Mukesh paid one-half of the sum of the amounts paid by the other persons. Manish paid one-third of the sum of the amounts paid by the other persons. Lalu paid one-fourth of the sum of the amounts paid by the other persons. How much did Jaggi have to pay?
+(A) £ 13
+(B) £ 15
+(C) £ 17
+(D) £ 23
+(E) None of these
+
+59. Yogesh and Mohan, two business partners, invest ₹21,000 and ₹17,500 respectively in their garment business and at the end of the year both of them make a profit of ₹26,400. Find their individual shares in the profit.
+(A) ₹14,400 and ₹12,000
+(B) ₹12,000 and ₹14,400
+(C) ₹14,000 and ₹12,400
+(D) ₹14,200 and ₹12,200
+(E) None of these
+
+60. ₹16,820 is divided between Seeta and Geeta who are 27 and 25 years old, respectively. Their money is invested at 5% per annum compound interest in such a way that both receive equal money at the age of
+
+================================================================================
+PAGE 248
+================================================================================
+
+9. The difference of the roots of the quadratic equation x^2 - mx + n = 0 is 1. Which of the following expressions is equal to m^2?
+(A) 4n - 1
+(B) 4n + 1
+(C) 2n - 1
+(D) 2n + 1
+(E) n - 1
+
+10. If |a/b| and |x/y| are reciprocals, then which of the following must be true?
+(A) ab < 0
+(B) a/b (x/y) < -1
+(C) a/b < 1
+(D) a/b = - y/x
+(E) y/x > a/b
+
+11. It costs a certain chair manufacturing unit ₹11,000 to operate for one month, plus ₹300 for each chair produced during the month. Each of the chairs sells for a retail price of ₹700. What is the minimum number of chairs that the manufacturing unit must sell in one month to make a profit?
+(A) 26
+(B) 27
+(C) 28
+(D) 29
+(E) 30
+
+12. Which of the following describes all possible solutions to the inequality |p + 5| < 9?
+(A) p < 4
+(B) p > -14
+
+================================================================================
+PAGE 249
+================================================================================
+
+(C) 4 > p > -14
+(D) -11 > p > 3
+(E) p > 4 or p < -14
+
+13. A school management committee must choose a 10 member delegation consisting of at least 4 male members and 4 female members for an annual conference. If the school management committee has 8 male members and 9 female members, then how many different delegations are possible? (Real NMAT Question)
+(A) 3,582
+(B) 8,820
+(C) 9,462
+(D) 10,638
+(E) 16,464
+
+14. Manish has 60 marbles that he wants to divide among himself and his 12 friends. The marbles don't necessarily have to be divided equally. If Manish wants to have more marbles than any of his friends, what is the least number of marbles he can have?
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 12
+
+15. If a^2 - b^2 = 0 and ab != 0, which of the following must be true? Indicate all such statements.
+1. a = b
+2. |a| = |b|
+3. a^2 / b^2 = 1
+(A) 1 only
+
+================================================================================
+PAGE 251
+================================================================================
+
+(B) 2 only
+(C) 3 only
+(D) 1 and 2 only
+(E) 2 and 3 only
+
+16. If (x - y) = \sqrt{20} and (x + y) = \sqrt{12} what is the value of x^2 - y^2 ?
+(A) 2\sqrt{15}
+(B) 4\sqrt{15}
+(C) 3\sqrt{20}
+(D) 6\sqrt{12}
+(E) 2\sqrt{21}
+
+17. In an arithmetic series, the sum of the second term and the fifth term is 24. The sixth term is greater than the third term by 12. What is the first term of the series?
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+
+18. Which of the following is equal to (a - 2)^2 + (a - 1)^2 + a^2 + (a + 1)^2 + (a + 2)^2 ?
+(A) 5a^2
+(B) 5a^2 + 10
+(C) a^2 + 10
+(D) 5a^2 + 6a + 10
+(E) 5a^2 - 6a + 10
+
+19. a is inversely proportional to b. Also, it is given that a = 24 when b = 2. What is the value of b when a = 6?
+(A) -2
+(B) -1
+
+================================================================================
+PAGE 252
+================================================================================
+
+(C) 2
+(D) 4
+(E) 8
+
+20. In one day, what is the sum of the numbers on which the hour hand of a clock points each time the minute hand is on 12?
+(A) 12
+(B) 78
+(C) 156
+(D) 160
+(E) 178
+
+21. There are a number of beads of three different colours: red, blue and yellow, and each colour has a different value. If the value of a red bead plus a blue bead is 4.25, the value of a blue bead plus a yellow bead is 2.75, and the value of a red bead plus a blue bead plus a yellow bead is 4.5, what is the value of a red bead plus a yellow bead?
+(A) 0.25
+(B) 2
+(C) 2.25
+(D) 2.75
+(E) 3
+
+22. National Cricket Academy offers two different pricing packages for cricket coaching. Under the 'Regular' pricing plan, classes can be bought for a flat rate of ₹80 per hour. Under the 'Exclusive' pricing plan, after paying an initial fee of ₹495, classes can be availed for a rate of ₹15 per hour. If Karan buys the 'Exclusive' pricing plan, how many classes does he need to take in order to have spent exactly 40% less than he would have under the 'Regular' plan?
+(A) 10
+
+================================================================================
+PAGE 253
+================================================================================
+
+(B) 12
+(C) 15
+(D) 18
+(E) 20
+
+23. A student took a test in which 3 marks were given for each correct answer and 0.5 marks were deducted for an incorrect answer. If the test had 25 questions and the student attempted all the questions and got 40 marks in total, what is the difference between the number of correct and incorrect answers?
+(A) 5
+(B) 10
+(C) 12
+(D) 15
+(E) 18
+
+24. A group of friends contributed to the cost of a party where each person had to contribute the same integer amount. Since three people did not participate, the remaining people had to pay ₹10 more. If the total amount contributed is the minimum value possible, what would be the per person contribution had 10 people contributed to the party?
+(A) ₹2
+(B) ₹5
+(C) ₹6
+(D) ₹8
+(E) ₹10
+
+25. If p + q + r = 0, where p != q != r, then p^2 / (2p^2 + qr) + q^2 / (2q^2 + pr) + r^2 / (2r^2 + pq) =
+(A) 0
+(B) 1
+
+================================================================================
+PAGE 254
+================================================================================
+
+(C) -1
+(D) pqr
+(E) p + q + r
+
+26. Out of a group of swans, seven times half of the square root of the number of swans were seen going away from a bank of a river and only one pair remained in the water. How many swans were there in the group?
+(A) 9
+(B) 16
+(C) 25
+(D) 36
+(E) 49
+
+27. If 1/p + 1/q = m and pq = 1/n, find 1/p^2 + 1/q^2
+(A) 1/m^2 - 2/n
+(B) m^2 - 2/n
+(C) m^2 - 2n
+(D) 1/m^2 - 2n
+(E) 1/m^2 + 2n
+
+28. Let f(x + 2) + f(5x + 6) = 2x - 1 for all real x. Find the value of f(1).
+(A) -2
+(B) -1
+(C) -5/2
+(D) -3/2
+(E) None of these
+
+Directions for Questions 29 and 30: Answer the questions based on the following.
+The following operations are defined for real numbers.
+
+================================================================================
+PAGE 256
+================================================================================
+
+A @ B = A if A is greater than B else A @ B = B
+A % B = AB if A * B is positive else A % B = A
+Note that all other mathematical symbols have their usual meanings.
+
+29. Find [(-4) @ (-5)] % 2.
+(A) -8
+(B) -10
+(C) -5
+(D) -4
+(E) -7
+
+30. Find (1 @ -1) / ((-K) @ (-K)) % K, K != 0.
+(A) K^2
+(B) 1/K
+(C) -1/K
+(D) 1
+(E) Cannot be determined
+
+31. If the sum of the roots of an quadratic equation is 5/4 times the product of the roots, find the relation between b and c.
+(A) b = 5/4 c
+(B) b = 4/5 c
+(C) b = -5/4 c
+(D) b = -4/5 c
+(E) b = -2/5 c
+
+32. A student attempts a question paper comprising 5 true or false questions. If he answers the entire paper randomly, what is the probability that he answers exactly 4 questions correctly? (Real NMAT Question)
+
+================================================================================
+PAGE 257
+================================================================================
+
+(A) 5/243
+(B) 1/8
+(C) 5/32
+(D) 5/16
+(E) 5/8
+
+33. Manoj plans to work at a coffee shop during his summer holidays. He will be paid as per the following schedule: at the end of the first week, he will receive ₹1,000. At the end of each subsequent week, he will receive ₹1,000, plus an additional amount equal to the sum of all payments he has received in the previous weeks. How much money will Manoj be paid in total if he works for 6 weeks at this coffee shop?
+(A) ₹18,000
+(B) ₹20,000
+(C) ₹42,000
+(D) ₹63,000
+(E) ₹81,000
+
+34. If the collection of a movie is ₹100,000 for the first day, ₹120,000 for the second day, ₹140,000 for the third day and so on, that is, the collection increases by ₹20,000 every day, then find the total collection for the first 10 days.
+(A) ₹1200,000
+(B) ₹1400,000
+(C) ₹1600,000
+(D) ₹1700,000
+(E) ₹1900,000
+
+35. If HP is an harmonic progression series such that its fourth and the ninth terms are 1/10 and 1/125
+
+================================================================================
+PAGE 258
+================================================================================
+
+respectively, then what are the first three terms of the series HP? (Real NMAT Question)
+(A) 1, 1/3, 1/7
+(B) 1, 1/4, 1/7
+(C) 1/2, 1/4, 1/8
+(D) 1/3, 1/5, 1/7
+(E) 1/4, 1/8, 1/12
+
+36. A person saves ₹200 more each year than in the previous year. If he started with ₹400 in the first year, how many years would he take to save ₹18,000 (excluding interest)?
+(A) 10 years
+(B) 12 years
+(C) 15 years
+(D) 18 years
+(E) None of these
+
+37. If the second term of a geometric progression is 6 and the fifth term is 48, then what is its tenth term?
+(A) 2,236
+(B) 2,146
+(C) 1,536
+(D) 1,246
+(E) 1,146
+
+38. p, q, r and s are any four positive real numbers, the minimum value of p/q + q/r + r/s + s/p is
+(A) 0
+(B) 1
+
+================================================================================
+PAGE 260
+================================================================================
+
+(C) 2
+(D) 2\sqrt{2}
+(E) 4
+
+39. If a, b, c and d are in GP, then (a^3 + b^3)^-1, (b^3 + c^3)^-1, and (c^3 + d^3)^-1 are in
+(A) AP
+(B) GP
+(C) HP
+(D) AP or GP
+(E) None of these
+
+40. A man pays a rent of ₹70 for the first day, ₹80 for the second day and so on, with the rent on each day being ₹10 more than the rent on the previous day. What is the total rent paid for the first 20 days?
+(A) ₹2,300
+(B) ₹2,700
+(C) ₹3,000
+(D) ₹3,200
+(E) ₹3,300
+
+41. Two cricketing teams, Team A and Team B, are playing in the same tournament. The probability of Team A winning the tournament is 3/8 while the probability of Team B winning is 2/7. What is the probability that neither of them win the tournament? (Real NMAT Question)
+(A) 2/5
+(B) 3/28
+(C) 25/28
+(D) 19/56
+(E) 37/56
+
+================================================================================
+PAGE 261
+================================================================================
+
+42. A bag has 24 cards labelled with numbers 1 to 24. All of the cards have different numbers on them. Maria draws 3 cards randomly. What is the probability that the numbers on the 3 cards are in arithmetic progression with the common difference 1 or 2? (Real NMAT Question)
+(A) 5 out of 506
+(B) 3 out of 253
+(C) 4 out of 223
+(D) 21 out of 1,012
+(E) 29 out of 1,012
+
+43. In a group of boys and girls, the number of boys is twice the number of girls. From this group, 5 boys and 3 girls are to be selected at random to form a team. If the number of people in the group is 15, then in how many ways can these 8 people be selected? (Real NMAT Question)
+(A) 112
+(B) 252
+(C) 1,150
+(D) 2,360
+(E) 2,520
+
+44. How many five-digit numbers can be formed using the digits 5, 6, 7, 2, 9, 0 if no digits can be repeated?
+(A) 64
+(B) 120
+(C) 240
+(D) 600
+(E) 720
+
+45. Five friends, Akshita, Binod, Chetan, Dravid, and Eshan are to be arranged in a line. How many such arrangements are possible if Binod is not allowed to stand next to Dravid?
+
+================================================================================
+PAGE 262
+================================================================================
+
+(A) 24
+(B) 48
+(C) 72
+(D) 96
+(E) 120
+
+46. On January 1, Ajit put Re 1 in his piggy bank. Every day he puts in ₹2 more than the total amount of money already in the piggy bank. Which of the following expressions gives the total amount of money in Ajit's piggy bank at the end of January? (Real NMAT Question)
+(A) 2^30
+(B) 2^31
+(C) 3(2^30) - 2
+(D) 3(2^31) - 2
+(E) 3(2^30)
+
+47. Among three different boxes, 10 identical balls have to be distributed. In how many ways can this be done such that every box has at least 2 balls?
+(A) 15
+(B) 16
+(C) 64
+(D) 81
+(E) None of these
+
+48. Kate wants to hang 1 curtain on each of the 7 windows. She has a total of 12 curtains available--4 identical curtains each of red, blue and yellow colour. Using only the available curtains, in how many different ways can she hang the curtains on the 7 windows such that for each colour at least 2 curtains of that colour are hung? (Note: Two ways of hanging the curtains are different if and only if at least one of the corresponding windows has a different curtain colour.) (Real NMAT Question)
+
+================================================================================
+PAGE 263
+================================================================================
+
+(A) 210
+(B) 420
+(C) 630
+(D) 840
+(E) 1,050
+
+49. One of the management test papers comprises of 9 questions divided equally among three sections, namely section I, section II and section III. There are fifteen different questions available such that there are five questions for every section for designing the test. If no two sections bear a common question, then how many different tests can be designed?
+(A) 480
+(B) 640
+(C) 800
+(D) 880
+(E) 1,000
+
+50. A box contains 90 balls of different colours: 13 yellow, 19 green, 27 red, 10 black, 7 brown and 14 white. Find the smallest number V such that any V balls drawn from the box will contain at least 14 balls of the same colour.
+(A) 69
+(B) 70
+(C) 72
+(D) 76
+(E) 79
+
+51. There are three groups of students having 4 students, 5 students and 3 students each. In how many ways can all these students be arranged in a row such that students belonging to the same group are always together? (Real NMAT Question)
+(A) 48,000
+
+================================================================================
+PAGE 265
+================================================================================
+
+(B) 52,410
+(C) 99,680
+(D) 64,400
+(E) 1,03,680
+
+52. If the fourth and ninth terms of a Harmonic Progression are 1/10 and 1/25, then find the series. (Real NMAT Question)
+(A) 1, 1/4, 1/7...
+(B) 1/2, 1/4, 1/8...
+(C) 1/3, 1/5, 1/7...
+(D) 1, 1/3, 1/7...
+(E) None of the above
+
+Directions for Questions 53-55: The following table represent the number of players nominated for different cricket teams.
+Team | Total Player Nominated | Batsmen | Bowler | All Rounder
+A | 20 | 8 | 6 | 6
+B | 15 | 10 | 4 | 1
+C | 18 | 12 | 3 | 3
+
+53. In how many ways can a team selector select 6 batsmen from team A?
+(A) 18
+(B) 20
+(C) 24
+(D) 28
+(E) 30
+
+================================================================================
+PAGE 266
+================================================================================
+
+54. In how many ways a team selector can select 10 players in team B where 6 are batsmen, 3 are bowlers and 1 is an all rounder?
+(A) 720
+(B) 800
+(C) 840
+(D) 900
+(E) None of these
+
+55. In how many ways a team selector can select 11 players in team C where 8 are batsmen, 2 are bowlers and 1 is an all rounder?
+(A) 4,455
+(B) 4,545
+(C) 4,465
+(D) 4,475
+(E) None of these
+
+56. Each factor of 210 is written on a piece of paper, and all the pieces of paper are mixed up. If a piece of paper is randomly picked up from this mix, what is the probability that a multiple of 42 is written on the paper?
+(A) 1/16
+(B) 5/42
+(C) 1/8
+(D) 3/16
+(E) 1/4
+
+57. As per a weather forecast, the probability of hail is 1/6 for any given day next week. What is the chance that there will be hail on both Thursday and Friday?
+(A) 1/36
+
+================================================================================
+PAGE 267
+================================================================================
+
+(B) 1/12
+(C) 1/6
+(D) 1/3
+(E) 2/3
+
+58. A dice has sides numbered 1 through 6. If the dice is rolled three times, what is the probability that at least one of the rolls will result in a number higher than 4?
+(A) 13/19
+(B) 11/13
+(C) 14/19
+(D) 19/27
+(E) 12/31
+
+59. There is an 80% chance that Deeksha will skip her lunch and 25% chance that there will be a power failure. If these events are independent, what is the probability that Deeksha will skip her lunch OR that there will be a power failure?
+(A) 20%
+(B) 80%
+(C) 85%
+(D) 95%
+(E) 105%
+
+60. Bag A contains 3 white and 3 red beads. Bag B contains 6 white and 3 red beads. One of the two bags will be chosen at random, and then two beads will be drawn from that bag at random without replacement. What is the probability that the two beads drawn will be of the same colour?
+(A) 7/20
+
+================================================================================
+PAGE 269
+================================================================================
+
+(B) 9/10
+(C) 9/20
+(D) 11/20
+(E) 13/20
+
+61. Two different unbiased dice are rolled together. What is the probability of getting a sum of more than or equal to 10 after adding the numbers shown on the tops of both the dice?
+(A) 1/12
+(B) 1/9
+(C) 1/6
+(D) 2/16
+(E) 1/4
+
+62. Two apples and five bananas are defective out of 10 apples and 20 bananas contained in a fruit basket. If Sanjeev takes out two fruits at random, what is the probability that either both are bananas, or both are good?
+(A) 119/435
+(B) 338/435
+(C) 841/870
+(D) 217/870
+(E) None of these
+
+63. If 'M' and 'N' are two independent events and P(M) = 0.5 and P(N) = 0.4, find P(M/N).
+(A) 0.4
+(B) 0.5
+(C) 0.6
+
+================================================================================
+PAGE 270
+================================================================================
+
+(D) 0.74
+(E) 0.88
+
+64. The roll numbers of students in the class are in the range from 100 to 199 (both inclusive). If the teacher selects one student at random, what is the probability that his/her roll number is divisible by 3?
+(A) 1/5
+(B) 32/99
+(C) 33/100
+(D) 2/3
+(E) None of these
+
+65. An integer x is chosen at random from the numbers 1 to 50. Find the probability that x + 336/x <= 50.
+(A) 7/10
+(B) 17/25
+(C) 19/50
+(D) 13/50
+(E) 3/10
+
+66. In an arithmetic series, the sum of the second term and the fifth term is 24. The sixth term is greater than the third term by 12. What is the first term of the series? (Real NMAT Question)
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5

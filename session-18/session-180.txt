@@ -1,0 +1,132 @@
+NMAT BY GMAC™ OFFICIAL GUIDE ELEVENTH EDITION
+
+================================================================================
+PAGE 75
+================================================================================
+
+7. If the price of a commodity decreases by k%, then to keep expenditure constant, increase in consumption is:
+   [k / (100 - k)] * 100%
+
+8. If increase in price is (1 / x) of the original price, then decrease in quantity purchased so that expenditure remains unchanged is equal to [1 / (x + 1)] of the original quantity and vice versa; where x is a natural number.
+
+   For example, if price increases by 16.67% or (1 / 6), then in order to keep the expenditure unchanged, the quantity has to be decreased by (1 / 7) or 14.28% of its original value.
+
+9. For the same expenditure, if increase in the quantity purchased is (1 / x) of the original quantity, then decrease in price is equal to [1 / (x + 1)] of the original price and vice versa; where x is a natural number.
+
+   For example, if for the same expenditure, increase in quantity purchased is 20% or (1 / 5) of the original quantity, then decrease in price is equal to 16.67% or (1 / 6) of original price.
+
+
+EXAMPLE 3
+In a class having 60% girls, 40% of the students qualified in a test. If 50% of the girls qualified, find the number of boys who did not qualify in the test as a percentage of the total strength of the class?
+
+================================================================================
+PAGE 76
+================================================================================
+
+(A) 10%
+(B) 30%
+(C) 45%
+(D) 55%
+(E) 90%
+
+SOLUTION:
+Let the total number of students in the class be 100.
+- Number of girls = 60
+- Number of boys = 40
+Total number of students who qualified = 40% of 100 = 40.
+Of those 40 students, 30 are girls (since 50% of the girls have qualified and 50% of 60 = 30).
+So, 10 boys have qualified, which means that 30 boys have not qualified.
+
+Therefore, as a percentage of the total strength of the class, 30% of the boys have not qualified.
+
+The correct answer is B.
+
+
+--------------------------------------------------------------------------------
+2. SIMPLE AND COMPOUND INTEREST
+--------------------------------------------------------------------------------
+
+INTEREST
+Interest is an additional amount that a lender gets against investment or loan. Interest earnings can be of two types: Simple Interest (SI) and Compound Interest (CI). Let us try to understand both of them.
+
+================================================================================
+PAGE 77
+================================================================================
+
+SIMPLE INTEREST (SI)
+The basic formula for simple interest is:
+
+   SI = (P * R * T) / 100
+
+where P is the principal, R is the rate % per annum and T is the time period (in years) of investment.
+
+
+COMPOUND INTEREST (CI)
+Compound interest is calculated on the principal amount and also on the accumulated interest of previous periods. This compounding effect can make a big difference to the total interest payable on a loan.
+
+The following basic formula is used for calculating compound interest. The formula calculates the amount, using which the interest can be calculated, that is:
+
+   A = P * (1 + R / 100)^n
+
+where A is the amount, P is the Principal, R is the rate % applicable and n is the number of periods.
+
+
+Compound interest calculation if interest is payable more than once a year:
+If interest is paid before completion of the year, then amount is:
+
+   A = P * [1 + R / (100 * p)]^(n * p)
+
+where p = number of times interest is paid in 1 year and n is number of years.
+So, if interest is paid semiannually, quarterly or monthly, the value of p is 2, 4 and 12 respectively.
+
+================================================================================
+PAGE 78
+================================================================================
+
+IMPORTANT LEARNING:
+1. In the first period, SI and CI are equal. In all the other periods after the first period, the CI is greater than the SI.
+2. In simple interest, the total rate of interest applicable is the sum of all the respective rates applicable.
+3. In compound interest, the total rate of interest applicable is the successive effect of the respective rates given.
+
+4. If an amount becomes N times itself in T years at SI, then the required rate of Interest:
+   R = [(N - 1) / T] * 100%
+
+5. Difference between compound interest and simple interest:
+   a. For Two years:
+      CI - SI = P * (R / 100)^2
+   b. For Three years:
+      CI - SI = P * (R^2 / 100^2) * [(300 + R) / 100]
+
+6. Ratio of CI and SI for two years:
+   CI / SI = (200 + R) / 200
+
+================================================================================
+PAGE 79
+================================================================================
+
+EXAMPLE 1
+The simple interest for 10 years is ₹6,000. The compound interest for 2 years is ₹1,400. Find the rate of interest and the principal.
+
+(A) 30%, 1,800
+(B) 33.33%, 1,600
+(C) 33.33%, 1,800
+(D) 35%, 1,500
+(E) 66.66%, 1,600
+
+SOLUTION:
+SI for 10 years is ₹6,000.
+Therefore, SI for 1 year will be ₹600.
+SI for 2 years will be ₹1,200.
+CI for 2 years is ₹1,400.
+
+Difference = ₹200. This is because of interest received on the first period's interest.
+
+Therefore,
+   200 = 600 * (R / 100)
+   R = 200 / 6 = 33.33%
+
+Also, interest for the first period is ₹600, rate is 33.33% and time period is 1 year.
+Therefore,
+   600 = (P * 33.33 * 1) / 100  =>  P = ₹1,800
+
+The correct answer is C.
