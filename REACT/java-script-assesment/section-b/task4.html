@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Tracker</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    ul { list-style-type: none; padding: 0; }
+    li { 
+      padding: 10px; 
+      margin-bottom: 5px; 
+      border: 1px solid #ccc; 
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    li:hover { background-color: #f0f0f0; }
+    .favourite { 
+      font-weight: bold; 
+      background-color: #d4edda; 
+      border-color: #c3e6cb; 
+      color: #155724;
+    }
+    .favourite:hover { background-color: #c3e6cb; }
+    #status { margin-bottom: 15px; font-weight: bold; }
+    .error { color: red; }
+  </style>
+</head>
+<body>
+
+  <h2>Select Your Favourite Restaurant</h2>
+  
+  <div id="status">Loading restaurants...</div>
+  <ul id="restaurantList"></ul>
+
+  <script src="task4.js"></script>
+</body>
+</html>
