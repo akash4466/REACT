@@ -8,7 +8,15 @@
     "session-3",
     "session-4",
     "session-5",
-    "session-6"
+    "session-6",
+    "session-7",
+    "session-8",
+    "session-9",
+    "session-10",
+    "session-11",
+    "session-12",
+    "session-13",
+    "session-14"
   ],
   "scripts": {
     "dev:session-1": "npm run dev --workspace=session-1/InstaCloneStarter",
@@ -17,6 +25,18 @@
     "dev:session-4": "npm run dev --workspace=session-4",
     "dev:session-5": "npm run dev --workspace=session-5",
     "dev:session-6": "npm run dev --workspace=session-6",
+    "dev:session-7": "npm run dev --workspace=session-7",
+    "dev:session-8": "npm run dev --workspace=session-8",
+    "dev:session-9": "npm run dev --workspace=session-9",
+    "dev:session-10": "npm run dev --workspace=session-10",
+    "dev:session-11": "npm run dev --workspace=session-11",
+    "dev:session-12": "npm run dev --workspace=session-12",
+    "dev:session-13": "npm run dev --workspace=session-13",
+    "dev:session-14": "npm run dev --workspace=session-14",
     "build:all": "npm run build --workspaces"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "react-router-dom": "^7.18.4"
   }
 }
