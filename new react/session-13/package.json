@@ -1,0 +1,21 @@
+{
+  "name": "session-13-musicpulse-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "homepage": "https://musicpulse-player.netlify.app",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build --outDir dist",
+    "preview": "vite preview"
+  }
+}
